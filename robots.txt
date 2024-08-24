@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://adatopohh.github.io/sitemap/sitemap.txt
